@@ -1,0 +1,527 @@
+"","Weekdays","Incident.Type","sums"
+"1","Mon","ADMINISTRATIVE
+",8
+"2","Mon","ALARM RESPONSE
+",5
+"3","Mon","ALCOHOL
+",10
+"4","Mon","ASSAULT
+",1
+"5","Mon","BATTERY
+",7
+"6","Mon","BURGLARY
+",7
+"7","Mon","BURGLARY-MOTOR VEHICLE
+",4
+"8","Mon","CHILD NEGLECT
+",1
+"9","Mon","CRIMINAL THREATS
+",1
+"10","Mon","DISTURBANCE
+",8
+"11","Mon","DOMESTIC VIOLENCE
+",1
+"12","Mon","EH&S
+",4
+"13","Mon","EXTORTION
+",1
+"14","Mon","FIRE
+",15
+"15","Mon","FORCIBLE SEX OFFENSE
+",3
+"16","Mon","FRAUD
+",5
+"17","Mon","HARASSMENT
+",7
+"18","Mon","HEALTH & SAFETY
+",6
+"19","Mon","IDENTITY THEFT
+",3
+"20","Mon","INCIDENT
+",1
+"21","Mon","LA MUNICIPAL CODE
+",2
+"22","Mon","NARCOTICS
+",8
+"23","Mon","OBSCENE ACTIVITY
+",1
+"24","Mon","PROPERTY
+",84
+"25","Mon","ROBBERY
+",1
+"26","Mon","SERVICE
+",117
+"27","Mon","SUICIDE
+",1
+"28","Mon","THEFT-FRAUD
+",1
+"29","Mon","THEFT-GRAND
+",10
+"30","Mon","THEFT-GRAND AUTO
+",1
+"31","Mon","THEFT-GRAND PERSON
+",2
+"32","Mon","THEFT-MOTOR VEHICLE
+",4
+"33","Mon","THEFT-PETTY
+",41
+"34","Mon","TRAFFIC
+",28
+"35","Mon","TRESPASS
+",5
+"36","Mon","VANDALISM
+",8
+"37","Mon","VEHICLE CODE
+",7
+"38","Mon","WARRANT
+",7
+"39","Tue","ADMINISTRATIVE
+",12
+"40","Tue","ALARM RESPONSE
+",8
+"41","Tue","ALCOHOL
+",5
+"42","Tue","ASSAULT-OTHER
+",1
+"43","Tue","BATTERY
+",2
+"44","Tue","BURGLARY
+",3
+"45","Tue","BURGLARY-MOTOR VEHICLE
+",5
+"46","Tue","CRIMINAL THREATS
+",2
+"47","Tue","DISORDERLY CONDUCT
+",3
+"48","Tue","DISTURBANCE
+",12
+"49","Tue","DOMESTIC VIOLENCE
+",2
+"50","Tue","EH&S
+",4
+"51","Tue","FIRE
+",17
+"52","Tue","FORCIBLE SEX OFFENSE
+",7
+"53","Tue","FRAUD
+",1
+"54","Tue","HALL
+",1
+"55","Tue","HARASSMENT
+",8
+"56","Tue","IDENTITY THEFT
+",3
+"57","Tue","LA MUNICIPAL CODE
+",1
+"58","Tue","NARCOTICS
+",4
+"59","Tue","OBSCENE ACTIVITY
+",8
+"60","Tue","PROPERTY
+",84
+"61","Tue","ROBBERY
+",3
+"62","Tue","SERVICE
+",147
+"63","Tue","THEFT-GRAND
+",9
+"64","Tue","THEFT-GRAND AUTO
+",2
+"65","Tue","THEFT-MOTOR VEHICLE
+",5
+"66","Tue","THEFT-PETTY
+",33
+"67","Tue","TRAFFIC
+",55
+"68","Tue","TRESPASS
+",4
+"69","Tue","VANDALISM
+",11
+"70","Tue","VEHICLE CODE
+",8
+"71","Tue","WARRANT
+",5
+"72","Wed","ADMINISTRATIVE
+",15
+"73","Wed","ALARM RESPONSE
+",5
+"74","Wed","ALCOHOL
+",14
+"75","Wed","ASSAULT-OTHER
+",1
+"76","Wed","BATTERY
+",9
+"77","Wed","BUILDING
+",1
+"78","Wed","BURGLARY
+",6
+"79","Wed","BURGLARY-MOTOR VEHICLE
+",3
+"80","Wed","BURGLARY-OTHER
+",1
+"81","Wed","DISORDERLY CONDUCT
+",4
+"82","Wed","DISTURBANCE
+",14
+"83","Wed","DOMESTIC VIOLENCE
+",2
+"84","Wed","EH&S
+",5
+"85","Wed","FIRE
+",18
+"86","Wed","FORCIBLE SEX OFFENSE
+",3
+"87","Wed","FRAUD
+",6
+"88","Wed","HARASSMENT
+",3
+"89","Wed","HEALTH & SAFETY
+",1
+"90","Wed","IDENTITY THEFT
+",4
+"91","Wed","NARCOTICS
+",3
+"92","Wed","NON-FORCIBLE SEX OFFENSE
+",1
+"93","Wed","OBSCENE ACTIVITY
+",3
+"94","Wed","PROPERTY
+",84
+"95","Wed","RESEARCH CENTER
+",1
+"96","Wed","ROBBERY
+",3
+"97","Wed","SERVICE
+",133
+"98","Wed","STUDENT HEALTH CENTER
+",1
+"99","Wed","THEFT-GRAND
+",7
+"100","Wed","THEFT-GRAND AUTO
+",1
+"101","Wed","THEFT-GRAND PERSON
+",1
+"102","Wed","THEFT-MOTOR VEHICLE
+",5
+"103","Wed","THEFT-PETTY
+",39
+"104","Wed","TRAFFIC
+",52
+"105","Wed","TRESPASS
+",7
+"106","Wed","VANDALISM
+",9
+"107","Wed","VEHICLE CODE
+",13
+"108","Wed","WARRANT
+",8
+"109","Wed","WEAPONS
+",1
+"110","Thu","ADMINISTRATIVE
+",14
+"111","Thu","ALARM RESPONSE
+",5
+"112","Thu","ALCOHOL
+",20
+"113","Thu","ASSAULT
+",1
+"114","Thu","ASSAULT-OTHER
+",1
+"115","Thu","BATTERY
+",4
+"116","Thu","BURGLARY
+",6
+"117","Thu","BURGLARY-MOTOR VEHICLE
+",3
+"118","Thu","BURGLARY-OTHER
+",1
+"119","Thu","CHILD NEGLECT
+",1
+"120","Thu","CRIMINAL THREATS
+",1
+"121","Thu","DISORDERLY CONDUCT
+",3
+"122","Thu","DISTURBANCE
+",10
+"123","Thu","DOMESTIC VIOLENCE
+",1
+"124","Thu","EH&S
+",4
+"125","Thu","EXTORTION
+",1
+"126","Thu","FIRE
+",18
+"127","Thu","FORCIBLE SEX OFFENSE
+",6
+"128","Thu","FRAUD
+",2
+"129","Thu","HARASSMENT
+",9
+"130","Thu","HEALTH & SAFETY
+",1
+"131","Thu","HOMELAND SECURITY
+",1
+"132","Thu","IDENTITY THEFT
+",4
+"133","Thu","LA MUNICIPAL CODE
+",1
+"134","Thu","NARCOTICS
+",5
+"135","Thu","OBSCENE ACTIVITY
+",6
+"136","Thu","POPOVICH HAL
+",1
+"137","Thu","PROPERTY
+",98
+"138","Thu","RESEARCH INSTIT
+",1
+"139","Thu","RESIDENCE HALL
+",1
+"140","Thu","ROBBERY
+",3
+"141","Thu","SERVICE
+",143
+"142","Thu","STUDENT HEALTH CENTER
+",1
+"143","Thu","SUICIDE
+",2
+"144","Thu","THEFT-GRAND
+",5
+"145","Thu","THEFT-GRAND AUTO
+",3
+"146","Thu","THEFT-GRAND PERSON
+",1
+"147","Thu","THEFT-MOTOR VEHICLE
+",4
+"148","Thu","THEFT-PETTY
+",59
+"149","Thu","THEFT-TRICK
+",1
+"150","Thu","TRAFFIC
+",59
+"151","Thu","TRESPASS
+",6
+"152","Thu","VANDALISM
+",10
+"153","Thu","VEHICLE CODE
+",13
+"154","Thu","WARRANT
+",6
+"155","Thu","WEAPONS
+",1
+"156","Fri","ADMINISTRATIVE
+",15
+"157","Fri","ALARM RESPONSE
+",2
+"158","Fri","ALCOHOL
+",52
+"159","Fri","ASSAULT
+",2
+"160","Fri","BATTERY
+",9
+"161","Fri","BURGLARY
+",8
+"162","Fri","BURGLARY-MOTOR VEHICLE
+",9
+"163","Fri","CRIMINAL THREATS
+",1
+"164","Fri","DISORDERLY CONDUCT
+",1
+"165","Fri","DISTURBANCE
+",16
+"166","Fri","DOMESTIC VIOLENCE
+",3
+"167","Fri","EH&S
+",5
+"168","Fri","FIRE
+",14
+"169","Fri","FORCIBLE SEX OFFENSE
+",13
+"170","Fri","HARASSMENT
+",6
+"171","Fri","HEALTH & SAFETY
+",6
+"172","Fri","HOMICIDE
+",1
+"173","Fri","HOSPITAL
+",1
+"174","Fri","IDENTITY THEFT
+",1
+"175","Fri","INCIDENT
+",1
+"176","Fri","NARCOTICS
+",2
+"177","Fri","OBSCENE ACTIVITY
+",5
+"178","Fri","PROPERTY
+",87
+"179","Fri","RESIDENCE HALL
+",1
+"180","Fri","ROBBERY
+",1
+"181","Fri","SERVICE
+",151
+"182","Fri","THEFT-GRAND
+",8
+"183","Fri","THEFT-GRAND AUTO
+",2
+"184","Fri","THEFT-GRAND PERSON
+",1
+"185","Fri","THEFT-MOTOR VEHICLE
+",8
+"186","Fri","THEFT-PETTY
+",53
+"187","Fri","THEFT-TRICK
+",2
+"188","Fri","TRAFFIC
+",51
+"189","Fri","TRESPASS
+",7
+"190","Fri","VANDALISM
+",14
+"191","Fri","VEHICLE CODE
+",11
+"192","Fri","WARRANT
+",7
+"193","Fri","WEAPONS
+",1
+"194","Sat","ADMINISTRATIVE
+",12
+"195","Sat","ALARM RESPONSE
+",3
+"196","Sat","ALCOHOL
+",74
+"197","Sat","ASSAULT
+",1
+"198","Sat","BATTERY
+",11
+"199","Sat","BURGLARY
+",3
+"200","Sat","BURGLARY-MOTOR VEHICLE
+",4
+"201","Sat","DISORDERLY CONDUCT
+",5
+"202","Sat","DISTURBANCE
+",15
+"203","Sat","DOMESTIC VIOLENCE
+",5
+"204","Sat","EH&S
+",8
+"205","Sat","EXTORTION
+",1
+"206","Sat","FIRE
+",13
+"207","Sat","FORCIBLE SEX OFFENSE
+",10
+"208","Sat","FRAUD
+",1
+"209","Sat","HARASSMENT
+",4
+"210","Sat","HEALTH & SAFETY
+",3
+"211","Sat","HOSPITAL
+",1
+"212","Sat","IDENTITY THEFT
+",2
+"213","Sat","INCIDENT
+",2
+"214","Sat","NARCOTICS
+",2
+"215","Sat","OBSCENE ACTIVITY
+",2
+"216","Sat","PROPERTY
+",73
+"217","Sat","ROBBERY
+",4
+"218","Sat","SERVICE
+",104
+"219","Sat","SUICIDE
+",4
+"220","Sat","THEFT-GRAND
+",4
+"221","Sat","THEFT-GRAND AUTO
+",1
+"222","Sat","THEFT-GRAND PERSON
+",1
+"223","Sat","THEFT-MOTOR VEHICLE
+",5
+"224","Sat","THEFT-PETTY
+",36
+"225","Sat","TRAFFIC
+",26
+"226","Sat","TRESPASS
+",1
+"227","Sat","VANDALISM
+",13
+"228","Sat","VEHICLE CODE
+",6
+"229","Sat","WARRANT
+",7
+"230","Sat","WEAPONS
+",1
+"231","Sun","ADMINISTRATIVE
+",8
+"232","Sun","ALARM RESPONSE
+",2
+"233","Sun","ALCOHOL
+",22
+"234","Sun","ASSAULT
+",1
+"235","Sun","ASSAULT-OTHER
+",1
+"236","Sun","BATTERY
+",6
+"237","Sun","BURGLARY
+",6
+"238","Sun","BURGLARY-MOTOR VEHICLE
+",3
+"239","Sun","DISORDERLY CONDUCT
+",7
+"240","Sun","DISTURBANCE
+",7
+"241","Sun","DOMESTIC VIOLENCE
+",1
+"242","Sun","EH&S
+",6
+"243","Sun","FIRE
+",17
+"244","Sun","FORCIBLE SEX OFFENSE
+",5
+"245","Sun","HARASSMENT
+",6
+"246","Sun","HEALTH & SAFETY
+",1
+"247","Sun","INCIDENT
+",2
+"248","Sun","NARCOTICS
+",4
+"249","Sun","OBSCENE ACTIVITY
+",3
+"250","Sun","PROPERTY
+",56
+"251","Sun","RESIDENCE HALL
+",1
+"252","Sun","ROBBERY
+",3
+"253","Sun","SERVICE
+",89
+"254","Sun","SUICIDE
+",1
+"255","Sun","THEFT-GRAND
+",5
+"256","Sun","THEFT-GRAND AUTO
+",1
+"257","Sun","THEFT-MOTOR VEHICLE
+",1
+"258","Sun","THEFT-PETTY
+",36
+"259","Sun","TRAFFIC
+",30
+"260","Sun","TRESPASS
+",3
+"261","Sun","VANDALISM
+",8
+"262","Sun","VEHICLE CODE
+",8
+"263","Sun","WARRANT
+",3
